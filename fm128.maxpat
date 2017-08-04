@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 42.0, 85.0, 572.0, 907.0 ],
+		"rect" : [ 41.0, 85.0, 573.0, 907.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -296,9 +296,9 @@
 					"numinlets" : 3,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 21.5, 627.5, 152.0, 22.0 ],
+					"patching_rect" : [ 21.5, 627.5, 158.0, 22.0 ],
 					"style" : "",
-					"text" : "poly~ fmvoice 16 @steal 1"
+					"text" : "poly~ fmvoice 128 @steal 1"
 				}
 
 			}
